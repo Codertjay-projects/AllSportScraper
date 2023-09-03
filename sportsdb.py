@@ -305,6 +305,7 @@ class TheSportsDB:
 
     def get_page_detail_links(self):
         item_count = 0
+        print("Getting All Page Links")
 
         while True:
             item_count += 1
