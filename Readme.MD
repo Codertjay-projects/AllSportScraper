@@ -32,13 +32,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/codertjay/AllSportScraper
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-project
+   cd AllSportScraper
    ```
 
 3. Create a virtual environment (optional but recommended):
