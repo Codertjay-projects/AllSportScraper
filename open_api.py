@@ -44,22 +44,3 @@ def transform_title(prompt):
     # Print the generated HTML content
     generated_content = response.choices[0].text.strip()
     return generated_content
-
-
-# print(transform_title("2022 Grey Cup Winner and Full List of Winners"))
-# print(transform_text("""
-# <ul>
-# <li>First Round: April 15-29.</li>
-#
-#
-#
-# <li>Second Round: April 30-June 15.</li>
-#
-#
-#
-# <li>Conference Finals: May 16-30.</li>
-#
-#
-#
-# <li>Stanley Cup Finals: June 3-17.</li>
-# </ul>"""))
